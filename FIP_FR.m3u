@@ -1,0 +1,16 @@
+# FIP (Main)
+https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance   format: aac, bitrate: 192
+# FIP Rock
+https://icecast.radiofrance.fr/fiprock-hifi.aac?id=radiofrance"   format: aac, bitrate: 192
+# FIP Jazz
+https://icecast.radiofrance.fr/fipjazz-hifi.aac?id=radiofrance    format: aac, bitrate: 192
+# FIP Groove
+https://icecast.radiofrance.fr/fipgroove-hifi.aac?id=radiofrance      format: aac, bitrate: 192
+# FIP World
+https://icecast.radiofrance.fr/fipworld-hifi.aac?id=radiofrance     format: aac, bitrate: 192
+# FIP Nouveautes
+https://icecast.radiofrance.fr/fipnouveautes-hifi.aac?id=radiofrance          format: aac, bitrate: 192
+# FIP Reggae
+https://icecast.radiofrance.fr/fipreggae-hifi.aac?id=radiofrance      format: aac, bitrate: 192
+# FIP Electro
+https://icecast.radiofrance.fr/fipelectro-hifi.aac?id=radiofrance       format: aac, bitrate: 192
